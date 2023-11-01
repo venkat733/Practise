@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-git practise for working with collabs -Venkat
-=======
-Sample.txt was edited by rameez
->>>>>>> e91ce6d2af964f793f27386f25654091d8356402
+This was edited by rameez 2nd
