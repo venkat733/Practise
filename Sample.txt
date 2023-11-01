@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 git practise for working with collabs -Venkat
-=======
-sakthi edited this
->>>>>>> eb861109a23579c53d5a172ad0d2d77aa785d2f1
