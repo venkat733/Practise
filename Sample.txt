@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This was edited by rameez 2nd
+=======
+
+git practise for working with collabs -Venkat
+>>>>>>> Venkat
