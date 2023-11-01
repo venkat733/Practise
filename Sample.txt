@@ -1,2 +1,1 @@
-Sample file was edited by rameez.
-for practise git
+Sample.txt was edited by rameez
